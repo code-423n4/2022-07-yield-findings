@@ -1,0 +1,9 @@
+{
+  "contest": 147,
+  "handle": "strider",
+  "address": "0x6d5429b530058749b4d55c54e31c84b44276d634",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 21,
+  "issueUrl": "https://github.com/code-423n4/2022-07-yield-findings/issues/21"
+}
