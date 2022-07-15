@@ -1,0 +1,9 @@
+{
+  "contest": 147,
+  "handle": "hake",
+  "address": "0x14ca9669a2d8e353560b85474575c5ffde245220",
+  "risk": "2",
+  "title": "Funds can be stuck or lost if `address(this)`or `address(0) is passed as `to`",
+  "issueId": 24,
+  "issueUrl": "https://github.com/code-423n4/2022-07-yield-findings/issues/24"
+}
