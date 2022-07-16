@@ -1,0 +1,9 @@
+{
+  "contest": 147,
+  "handle": "rajatbeladiya",
+  "address": "0x6840a08b4e51cd863bbe6c902b60c59dbca85f97",
+  "risk": "2",
+  "title": "`ladle` address change can lead to fail other functionalities",
+  "issueId": 36,
+  "issueUrl": "https://github.com/code-423n4/2022-07-yield-findings/issues/36"
+}
