@@ -1,0 +1,9 @@
+{
+  "contest": 147,
+  "handle": "auditor0517",
+  "address": "0x0fcf87f1ca8ea435f2517880a33329005c464127",
+  "risk": "2",
+  "title": "auction.start might be zero after a new auction is created.",
+  "issueId": 66,
+  "issueUrl": "https://github.com/code-423n4/2022-07-yield-findings/issues/66"
+}
