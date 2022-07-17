@@ -1,0 +1,9 @@
+{
+  "contest": 147,
+  "handle": "hansfriese",
+  "address": "0xf2dcb1d3b7091dcf2ce87ad115377c108ebe6dd4",
+  "risk": "2",
+  "title": "Missing validation of zero address for receivers",
+  "issueId": 53,
+  "issueUrl": "https://github.com/code-423n4/2022-07-yield-findings/issues/53"
+}
