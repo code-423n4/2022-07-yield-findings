@@ -1,0 +1,9 @@
+{
+  "contest": 147,
+  "handle": "hansfriese",
+  "address": "0xf2dcb1d3b7091dcf2ce87ad115377c108ebe6dd4",
+  "risk": "2",
+  "title": "Witch._payInk() wouldn't work properly when Witch.auctioneerReward = 1e18",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2022-07-yield-findings/issues/54"
+}
