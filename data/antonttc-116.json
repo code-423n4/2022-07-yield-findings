@@ -1,0 +1,9 @@
+{
+  "contest": 147,
+  "handle": "antonttc",
+  "address": "0x386f6b908640d9f394ef37bc1b8c3a4018fa3db1",
+  "risk": "3",
+  "title": " Someone can create non-liquidatable auction if the collateral asset fails on transferring to address(0)",
+  "issueId": 116,
+  "issueUrl": "https://github.com/code-423n4/2022-07-yield-findings/issues/116"
+}
