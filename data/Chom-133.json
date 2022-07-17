@@ -1,0 +1,9 @@
+{
+  "contest": 147,
+  "handle": "Chom",
+  "address": "0xc4c459668fb29833d7dee997d7d347e2634c9cef",
+  "risk": "2",
+  "title": "Zero duration may lead to revert of many actions",
+  "issueId": 133,
+  "issueUrl": "https://github.com/code-423n4/2022-07-yield-findings/issues/133"
+}
