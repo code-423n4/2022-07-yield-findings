@@ -1,0 +1,9 @@
+{
+  "contest": 147,
+  "handle": "Chom",
+  "address": "0xc4c459668fb29833d7dee997d7d347e2634c9cef",
+  "risk": "2",
+  "title": "limits_.sum is not increased yet when performing limit check. Collateral may exceed the limit.",
+  "issueId": 130,
+  "issueUrl": "https://github.com/code-423n4/2022-07-yield-findings/issues/130"
+}
