@@ -1,0 +1,9 @@
+{
+  "contest": 147,
+  "handle": "peritoflores",
+  "address": "0xCC9C3D6ed709D47255815FF5b5BB17A745B7CEED",
+  "risk": "3",
+  "title": "Incorrect payout calculation due to a division before multiplication",
+  "issueId": 141,
+  "issueUrl": "https://github.com/code-423n4/2022-07-yield-findings/issues/141"
+}
