@@ -1,0 +1,9 @@
+{
+  "contest": 147,
+  "handle": "kenzo",
+  "address": "0x611dabf15f0077c64fdb5067376ad593191e65f3",
+  "risk": "2",
+  "title": "Auction limits cannot be shared amongst all Witches",
+  "issueId": 84,
+  "issueUrl": "https://github.com/code-423n4/2022-07-yield-findings/issues/84"
+}
