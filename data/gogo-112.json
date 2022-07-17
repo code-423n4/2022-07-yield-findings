@@ -1,0 +1,9 @@
+{
+  "contest": 147,
+  "handle": "gogo",
+  "address": "0x8921d08f3068b3ba08c213eacfb744fbf75388c7",
+  "risk": "3",
+  "title": "Not checking if `to == address(0)` may lead to lossing/locking funds",
+  "issueId": 112,
+  "issueUrl": "https://github.com/code-423n4/2022-07-yield-findings/issues/112"
+}
