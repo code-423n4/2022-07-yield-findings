@@ -1,0 +1,9 @@
+{
+  "contest": 147,
+  "handle": "tofunmi",
+  "address": "0x9af5ae89089c75f18ab01ece220763d97fd0dfce",
+  "risk": "3",
+  "title": "The auction doesn't check who puts a vault up for auction and can lead to a denial of service attack, and other actions beneficiary an attacker",
+  "issueId": 114,
+  "issueUrl": "https://github.com/code-423n4/2022-07-yield-findings/issues/114"
+}
