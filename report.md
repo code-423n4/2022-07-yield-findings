@@ -1,3 +1,11 @@
+---
+sponsor: "Yield"
+slug: "2022-07-yield"
+date: "2022-10-03"
+title: "Yield Witch v2 contest"
+findings: "https://github.com/code-423n4/2022-07-yield-findings/issues"
+contest: 147
+---
 
 # Overview
 
